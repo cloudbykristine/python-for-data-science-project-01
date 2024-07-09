@@ -24,7 +24,7 @@ The sinking of the RMS Titanic is one of the most infamous shipwrecks in history
 
 ## Dataset
 
-The dataset used in this project is the [Kaggle Titanic Dataset](https://www.kaggle.com/c/titanic). It contains information about the passengers on the Titanic, including their demographics, ticket details, and survival status.
+The dataset used in this project is the [Kaggle Titanic Dataset](https://www.kaggle.com/datasets/yasserh/titanic-dataset). It contains information about the passengers on the Titanic, including their demographics, ticket details, and survival status.
 
 ## Skills Highlighted
 
