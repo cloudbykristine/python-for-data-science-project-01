@@ -12,10 +12,8 @@ This repository contains an analysis of the Titanic dataset, which includes data
 - [Skills Highlighted](#skills-highlighted)
 - [Project Structure](#project-structure)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgements](#acknowledgements)
 
 ## Introduction
@@ -42,3 +40,12 @@ To run the notebooks and scripts in this project, you need to have Python instal
 ```bash
 pip install -r requirements.txt
 
+## Results
+The results of the analysis, including key insights and the performance of the predictive models, are documented in the notebooks and summarized in the Results section.
+
+## Contributing
+Contributions are welcome! If you have any suggestions or improvements, please create a pull request or open an issue.
+
+## Acknowledgements
+Kaggle for providing the dataset.
+The data science and machine learning community for their valuable resources and tutorials.
