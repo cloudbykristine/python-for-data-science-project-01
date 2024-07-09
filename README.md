@@ -1,5 +1,8 @@
 # python-for-data-science-project-01
 This is a repository containing a Data Analysis performed using Python.
+The following is the planned outline for this project.
+
+NOTE: This is still a Work-in-Progress.
 
 # Titanic Dataset Analysis
 
