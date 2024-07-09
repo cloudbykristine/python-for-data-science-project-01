@@ -39,7 +39,7 @@ To run the notebooks and scripts in this project, you need to have Python instal
 
 ```bash
 pip install -r requirements.txt
-
+```
 ## Results
 The results of the analysis, including key insights and the performance of the predictive models, are documented in the notebooks and summarized in the Results section.
 
