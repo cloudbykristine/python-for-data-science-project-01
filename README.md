@@ -36,27 +36,29 @@ The dataset used in this project is the [Kaggle Titanic Dataset](https://www.kag
 
 ## Project Structure
 
+```plaintext
 titanic-dataset-analysis/
 │
 ├── data/
-│ ├── train.csv
-│ ├── test.csv
-│ └── gender_submission.csv
+│   ├── train.csv
+│   ├── test.csv
+│   └── gender_submission.csv
 │
 ├── notebooks/
-│ ├── data_cleaning.ipynb
-│ ├── exploratory_data_analysis.ipynb
-│ ├── feature_engineering.ipynb
-│ └── machine_learning.ipynb
+│   ├── data_cleaning.ipynb
+│   ├── exploratory_data_analysis.ipynb
+│   ├── feature_engineering.ipynb
+│   └── machine_learning.ipynb
 │
 ├── src/
-│ ├── data_cleaning.py
-│ ├── exploratory_data_analysis.py
-│ ├── feature_engineering.py
-│ └── machine_learning.py
+│   ├── data_cleaning.py
+│   ├── exploratory_data_analysis.py
+│   ├── feature_engineering.py
+│   └── machine_learning.py
 │
 ├── README.md
 └── requirements.txt
+```
 
 ## Installation
 
