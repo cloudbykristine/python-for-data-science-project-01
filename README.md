@@ -36,6 +36,28 @@ The dataset used in this project is the [Kaggle Titanic Dataset](https://www.kag
 
 ## Project Structure
 
+titanic-dataset-analysis/
+│
+├── data/
+│ ├── train.csv
+│ ├── test.csv
+│ └── gender_submission.csv
+│
+├── notebooks/
+│ ├── data_cleaning.ipynb
+│ ├── exploratory_data_analysis.ipynb
+│ ├── feature_engineering.ipynb
+│ └── machine_learning.ipynb
+│
+├── src/
+│ ├── data_cleaning.py
+│ ├── exploratory_data_analysis.py
+│ ├── feature_engineering.py
+│ └── machine_learning.py
+│
+├── README.md
+└── requirements.txt
+
 ## Installation
 
 To run the notebooks and scripts in this project, you need to have Python installed. You can install the required packages using `pip` and the `requirements.txt` file.
